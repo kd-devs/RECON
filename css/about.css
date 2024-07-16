@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  background-color: #32012F;
+  padding: 2% 7%;
+}
+
+header a {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+/* Navbar and title section */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-toggler {
+  border-color: #fff;
+}
+
+/* Our Mission Section */
+.about-section {
+  padding: 7%;
+}
+
+/* Our Story Section */
+.our-story {
+  /* color: #fff; */
+  /* background-color: #32012F; */
+  padding: 7%;
+  margin-top:7%;
+  text-align: justify;
+}
+
+/* Meet the Team Section */
+.meet-the-team {
+  background-color: #32012F;
+  padding: 7%;
+}
+
+.meet-the-team img {
+  padding-top: 3%;
+}
+
+.card-throw-back {
+  padding-top: 7%;
+}
+
+/* Our Values Section */
+.our-values {
+  padding: 7%;
+    background-color: #32012F;
+    color: #fff;
+      margin-bottom:7%;
+}
+
+.our-values p {
+  text-align: justify;
+}
+
+/* carousel-section */
+.carousel-inner p{
+  width: 25%;
+ margin: 0 auto;
+}
+.carousel-img{
+  width: 25%;
+  border-radius: 10px;
+  margin: 2%  auto 0 auto;
+}
+
+/* Footer section */
+.footer-section {
+  background-color: #32012F;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  margin-top: 5%
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
