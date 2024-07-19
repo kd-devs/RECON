@@ -161,3 +161,10 @@ margin: 7%;
 .social-icon {
   margin: 20px 10px;
 }
+
+@media (max-width: 1028px) {
+  header ul{
+    text-align: center;
+  }
+
+}
