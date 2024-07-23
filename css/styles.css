@@ -7,7 +7,7 @@ header{
   padding: 2% 7%;
 }
 header a {
-  font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p{
@@ -165,6 +165,31 @@ margin: 7%;
 @media (max-width: 1028px) {
   header ul{
     text-align: center;
+  }
+
+  .navbar img {
+    width: 50px;
+  }
+
+  .navbar button {
+    width: 50px;
+  }
+
+  .navbar-toggler-icon{
+    width: 20px;
+  }
+
+  .first-container p,h6{
+
+    text-align: center;
+  }
+  .second-container{
+    text-align: center;
+  }
+
+  .carousel-inner p{
+    text-align: center;
+    width: 50%;
   }
 
 }

@@ -97,4 +97,21 @@ p {
     text-align: center;
   }
 
+  .navbar img {
+    width: 50px;
+  }
+
+  .navbar button {
+    width: 50px;
+  }
+
+  .navbar-toggler-icon{
+    width: 20px;
+  }
+
+  .carousel-inner p{
+    text-align: center;
+    width: 50%;
+  }
+
 }

@@ -45,6 +45,7 @@ p {
 
 .welcome-address-img{
   width: 25%;
+  border-radius: 10px;
   float: left;
   margin-right: 30px;
 }
@@ -86,6 +87,18 @@ p {
 @media (max-width: 1028px) {
   header ul{
     text-align: center;
+  }
+
+  .navbar img {
+    width: 50px;
+  }
+
+  .navbar button {
+    width: 50px;
+  }
+
+  .navbar-toggler-icon{
+    width: 20px;
   }
 
 }
